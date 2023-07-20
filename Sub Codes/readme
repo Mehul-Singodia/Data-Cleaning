@@ -1,0 +1,6 @@
+This file contains the code for the following below tasks:
+
+1) Finding Exceptions: The code highlights exceptions or outliers by pinpointing the least occurring combinations in the dataset. This information is presented to the user for further investigation and analysis.
+2) Removing Duplicates: The code intelligently identifies and eliminates duplicate records based on key fields (i.e Composite Key), thereby preventing redundancy and streamlining the dataset.
+3) Missing Values and Outlier Handling: The code effectively handles missing values in the dataset, encompassing various forms such as empty strings, special characters, and keywords like "nan" or "none". It offers two options: removing rows with missing values or replacing them with appropriate value in the important fields. Additionally, it will also remove the outlier make it more efficient for analysing.
+4) Fuzzy String Matching: The code identifies duplicate string records within the dataset, even accounting for variations caused by spelling errors specially benefits in Name Checking. It retains only the unique strings, ensuring data integrity. 
